@@ -23,13 +23,11 @@ public class ImplementMyInterface implements MyInterface{
 		
 	}
 
-	@Override
 	public void create() {
 		// TODO Auto-generated method stub
 		System.out.println(" This is to Create a new stuff");
 	}
 
-	@Override
 	public void update() {
 		// TODO Auto-generated method stub
 		System.out.println(" This is to Update an existing stuff");
